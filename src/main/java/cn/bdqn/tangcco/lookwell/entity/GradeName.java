@@ -9,7 +9,7 @@ public class GradeName {
 
     private Integer maxNum;         //最大编号
 
-    private Project project;           //外键：班级id
+    private Project project;           //外键：产品id
 
     @Override
     public String toString() {
